@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8Nkr5GrBs8kumieVLwgaC+O4vHLS/zci3YfxWWPgB2JH8P4UItbljfRsdpj73OKlnWq5O+fEfRT8UsbxhYklA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lg_pi\\OneDrive\\Documentos\\GitHub\\GameBuddyApp\\GameBuddy\\api\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lg_pi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lg_pi\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\lg_pi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\lg_pi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\lg_pi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\lg_pi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
