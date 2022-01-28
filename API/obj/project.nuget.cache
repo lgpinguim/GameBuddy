@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fgLNQlpMTmQ9B0juQWpBLPV78HG9PVufn2i5ue5w3LR+yqDWTON/x4Cv02T/r9b47UJ/NkLbRyRrtbHEppZlrw==",
+  "dgSpecHash": "mtMjZ8yEOsB02FE9A0XBk/qe5Cv/usiitPK9sZV5cTpxmiphbT/izdjfnjPnS556evHXrOYEPjz93AzBvSB44g==",
   "success": true,
   "projectFilePath": "C:\\Users\\lg_pi\\Documents\\GitHub\\GameBuddy\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -39,7 +39,7 @@
     "C:\\Users\\lg_pi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-rc.1.20451.14\\system.componentmodel.annotations.5.0.0-rc.1.20451.14.nupkg.sha512",
     "C:\\Users\\lg_pi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-rc.1.20451.14\\system.diagnostics.diagnosticsource.5.0.0-rc.1.20451.14.nupkg.sha512",
     "C:\\Users\\lg_pi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\lg_pi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\lg_pi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
